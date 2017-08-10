@@ -1,24 +1,29 @@
 @font-face {
     font-family: ‘Grotesk_45_ExLt’;
+    font-style: normal;
     src: url(‘fonts/NHaasGroteskDSStd-35XLt.otf’) format(‘opentype’);
 }
 
 @font-face {
     font-family: ‘Grotesk_45_Lt’;
+    font-style: normal;
     src: url(‘fonts/NHaasGroteskDSStd-45Lt.otf’) format(‘opentype’);
 }
 
 @font-face {
     font-family: ‘Grotesk_55_Rg’;
+    font-style: normal;
     src: url(‘/fonts/NHaasGroteskDSStd-55Rg.otf’) format(‘opentype’);
 }
 
 @font-face {
     font-family: ‘Grotesk_65_Md’;
+    font-style: normal;
     src: url(‘/fonts/NHaasGroteskDSStd-65Md.otf’) format(‘opentype’);
 }
 
 @font-face {
     font-family: ‘Grotesk_75_Bold’;
+    font-style: normal;
     src: url(‘/fonts/NHaasGroteskDSStd-75Bd.otf’) format(‘opentype’);
 }
