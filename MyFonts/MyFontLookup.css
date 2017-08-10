@@ -19,6 +19,7 @@
 }
 
 @font-face {
-    font-family: ‘Grotesk_75_Bold’;
-    src: url('/fonts/NHaasGroteskDSStd-75Bd.otf') format('opentype');
+    font-family: Neue Haas Grotesk Bold;
+    font-weight: 750;
+    src: url("../fonts/NHaasGroteskDSStd-75Bd.otf") format("opentype");
 }
