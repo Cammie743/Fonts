@@ -1,5 +1,49 @@
 @font-face {
-    font-family: Neue Haas Grotesk Bold;
-    font-weight: 750;
-    src: url("/fonts/NHaasGroteskDSStd-75Bd.otf") format("opentype");
+    font-family: ‘Grotesk_45_ExLt’;
+    src: url(‘../../CE_assets/fonts/Neue Haas Grotesk/NHaasGroteskDSStd-35XLt.otf’) format(‘opentype’);
+}
+
+@font-face {
+    font-family: ‘Grotesk_45_Lt’;
+    src: url(‘../../CE_assets/fonts/Neue Haas Grotesk/NHaasGroteskDSStd-45Lt.otf’) format(‘opentype’);
+}
+
+@font-face {
+    font-family: ‘Grotesk_55_Rg’;
+    src: url(‘/fonts/NHaasGroteskDSStd-55Rg.otf’) format(‘opentype’);
+}
+
+@font-face {
+    font-family: ‘Grotesk_65_Md’;
+    src: url(‘/fonts/NHaasGroteskDSStd-65Md.otf’) format(‘opentype’);
+}
+
+@font-face {
+    font-family: ‘Grotesk_75_Bold’;
+    src: url(‘/fonts/NHaasGroteskDSStd-75Bd.otf’) format(‘opentype’);
+}
+
+.grotesk_45_exlt {
+    font-size: 62.5%;
+    font-family: “Grotesk_45_ExLt”;
+}
+
+.grotesk_45_lt {
+    font-size: 62.5%;
+    font-family: “Grotesk_45_Lt”;
+}
+
+.grotesk_55_rg {
+    font-size: 62.5%;
+    font-family: “Grotesk_55_Rg”;
+}
+
+.grotesk_75_bold {
+    font-size: 62.5%;
+    font-family: “Grotesk_75_Bold”;
+}
+
+.grotesk_65_Md {
+    font-size: 62.5%;
+    font-family: “Grotesk_65_Md”;
 }
