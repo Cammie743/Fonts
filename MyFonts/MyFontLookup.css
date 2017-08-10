@@ -20,5 +20,5 @@
 
 @font-face {
     font-family: ‘Grotesk_75_Bold’;
-    src: url('../fonts/NHaasGroteskDSStd-75Bd.otf') format('opentype');
+    src: url('/fonts/NHaasGroteskDSStd-75Bd.otf') format('opentype');
 }
