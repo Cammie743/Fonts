@@ -1,29 +1,29 @@
 @font-face {
-    font-family: ‘Grotesk_45_ExLt’;
+    font-family: Grotesk_45_ExLt;
+    src: url(https://github.com/Cammie743/Fonts/blob/master/MyFonts/fonts/NHaasGroteskDSStd-35XLt.otf) format(opentype);
     font-style: normal;
-    src: url(‘https://github.com/Cammie743/Fonts/blob/master/MyFonts/fonts/NHaasGroteskDSStd-35XLt.otf’) format(‘opentype’);
 }
 
 @font-face {
-    font-family: ‘Grotesk_45_Lt’;
+    font-family: Grotesk_45_Lt;
+    src: url(https://github.com/Cammie743/Fonts/blob/master/MyFonts/fonts/NHaasGroteskDSStd-45Lt.otf) format(opentype);
     font-style: normal;
-    src: url(‘https://github.com/Cammie743/Fonts/blob/master/MyFonts/fonts/NHaasGroteskDSStd-45Lt.otf’) format(‘opentype’);
 }
 
 @font-face {
     font-family: ‘Grotesk_55_Rg’;
-    font-style: normal;
     src: url(‘https://github.com/Cammie743/Fonts/blob/master/MyFonts/fonts/NHaasGroteskDSStd-55Rg.otf’) format(‘opentype’);
+    font-style: normal;
 }
 
 @font-face {
     font-family: ‘Grotesk_65_Md’;
-    font-style: normal;
     src: url(‘https://github.com/Cammie743/Fonts/blob/master/MyFonts/fonts/NHaasGroteskDSStd-65Md.otf’) format(‘opentype’);
+    font-style: normal;
 }
 
 @font-face {
-    font-family: ‘Grotesk_75_Bold’;
+    font-family: Grotesk_75_Bold;
+    src: url(https://github.com/Cammie743/Fonts/blob/master/MyFonts/fonts/NHaasGroteskDSStd-75Bd.otf) format(opentype);
     font-style: normal;
-    src: url(‘https://github.com/Cammie743/Fonts/blob/master/MyFonts/fonts/NHaasGroteskDSStd-75Bd.otf’) format(‘opentype’);
 }
